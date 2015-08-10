@@ -1,2 +1,0 @@
-# iamgallerypage
-Read Me
